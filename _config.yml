@@ -1,0 +1,28 @@
+name: e-charge
+favicon: null
+layout_spectrum: 0.3586950437165797
+typography_spectrum: 0.19658174319192767
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.4176809706259519
+  lightness: 0.803438174771145
+  saturation: 0.07102103903889656
+  rhythmicContrast: 0.610759362578392
+purpose: []
