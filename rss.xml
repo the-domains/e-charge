@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[e-charge]]></title>
         <description><![CDATA[e-charge]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/e-charge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 06:16:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Apr 2016 09:01:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/e-charge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Zero DSR]]></title>
             <description><![CDATA[<article><h1>Zero DSR</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d49544e-86a9-4a26-b74b-78fa84de5ba4.jpg"></article>]]></description>
-            <link>undefinedzero-dsr/index.html</link>
+            <link>https://thegrid.ai/e-charge/zero-dsr/index.html</link>
             <guid isPermaLink="false">9d9c5848-ae9a-4785-9c97-76f7086fda2b</guid>
             <pubDate>Wed, 06 Apr 2016 06:16:45 GMT</pubDate>
         </item>
