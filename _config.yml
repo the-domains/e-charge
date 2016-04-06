@@ -1,7 +1,7 @@
 name: e-charge
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.19658174319192767
+typography_spectrum: 0.74331
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#e9e2c5'
-    - '#d8cc90'
-    - '#000300'
-    - '#646f5f'
-    - '#92996f'
-  brandStrength: 0.4176809706259519
+    - '#080808'
+    - '#353535'
+    - '#969696'
+    - '#c5c5c5'
+    - '#fcfcfc'
+  brandStrength: 0.1875
   lightness: 0.803438174771145
-  saturation: 0.07102103903889656
+  saturation: 0.6875
   rhythmicContrast: 0.610759362578392
 purpose: []
