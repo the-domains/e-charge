@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[e-charge]]></title>
+        <description><![CDATA[e-charge]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Apr 2016 06:16:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Zero DSR]]></title>
+            <description><![CDATA[<article><h1>Zero DSR</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d49544e-86a9-4a26-b74b-78fa84de5ba4.jpg"></article>]]></description>
+            <link>undefinedzero-dsr/index.html</link>
+            <guid isPermaLink="false">9d9c5848-ae9a-4785-9c97-76f7086fda2b</guid>
+            <pubDate>Wed, 06 Apr 2016 06:16:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
