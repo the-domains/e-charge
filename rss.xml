@@ -4,8 +4,15 @@
         <description><![CDATA[News about changing from combustion to charging]]></description>
         <link>https://thegrid.ai/e-charge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 05:58:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 06:08:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/e-charge/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MORE POWER. MORE TORQUE.MAX ADVENTURE.]]></title>
+            <description><![CDATA[<article><h1>MORE POWER. MORE TORQUE.MAX ADVENTURE.</h1><p>The Zero DSR is an amped-up version of the Zero DS, bringing unprecedented levels of power and torque to the world’s most versatile electric motorcycle. For the dual sport rider demanding more, the Zero DSR delivers 56% more torque and 25% more power. A 660 amp controller is paired with a Z-Force® motor that contains higher temperature magnets to ensure better performance during extended durations at higher speeds. The result is exhilarating acceleration and even greater prowess off-road.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d49544e-86a9-4a26-b74b-78fa84de5ba4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/e-charge/zero-dsr/index.html</link>
+            <guid isPermaLink="false">9d9c5848-ae9a-4785-9c97-76f7086fda2b</guid>
+            <pubDate>Thu, 07 Apr 2016 06:08:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BLI IX: Agenda]]></title>
             <description><![CDATA[<article><h1>BLI IX: Agenda</h1></article>]]></description>
@@ -47,13 +54,6 @@
             <link>http://thinkprogress.org/climate/2016/02/11/3748451/tesla-gm-affordable-electric-cars/?xing_share=news</link>
             <guid isPermaLink="false">196831d2-b6c3-4bc5-9f19-0f0ac83a9d23</guid>
             <pubDate>Wed, 06 Apr 2016 21:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MORE POWER. MORE TORQUE.MAX ADVENTURE.]]></title>
-            <description><![CDATA[<article><h1>MORE POWER. MORE TORQUE.MAX ADVENTURE.</h1><p>The Zero DSR is an amped-up version of the Zero DS, bringing unprecedented levels of power and torque to the world’s most versatile electric motorcycle. For the dual sport rider demanding more, the Zero DSR delivers 56% more torque and 25% more power. A 660 amp controller is paired with a Z-Force® motor that contains higher temperature magnets to ensure better performance during extended durations at higher speeds. The result is exhilarating acceleration and even greater prowess off-road.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d49544e-86a9-4a26-b74b-78fa84de5ba4.jpg"></article>]]></description>
-            <link>https://thegrid.ai/e-charge/zero-dsr/index.html</link>
-            <guid isPermaLink="false">9d9c5848-ae9a-4785-9c97-76f7086fda2b</guid>
-            <pubDate>Wed, 06 Apr 2016 20:39:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
