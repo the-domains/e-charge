@@ -6,8 +6,8 @@ inLanguage: de
 starred: false
 keywords: []
 description: 'Wir verwenden Cookies auf dieser Website. Cookies sind kleine Textdateien, die auf Ihrem Computer gespeichert werden. Sie dienen dazu, unsere Seiten nutzerfreundlicher zu machen und diese optimiert darzustellen. Durch die Nutzung unserer Seiten erklären Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen'
-datePublished: '2016-04-08T19:32:58.801Z'
-dateModified: '2016-04-08T19:32:05.559Z'
+datePublished: '2016-04-08T19:35:05.565Z'
+dateModified: '2016-04-08T19:33:07.981Z'
 author: []
 related: []
 app_links: []
