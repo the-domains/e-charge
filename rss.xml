@@ -4,7 +4,7 @@
         <description><![CDATA[News about changing from combustion to charging]]></description>
         <link>https://thegrid.ai/e-charge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 14:36:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 14:36:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/e-charge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[MORE POWER. MORE TORQUE.MAX ADVENTURE.]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/e-charge/zero-dsr/index.html</link>
             <guid isPermaLink="false">9d9c5848-ae9a-4785-9c97-76f7086fda2b</guid>
             <pubDate>Thu, 07 Apr 2016 06:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MyReserve - der erste wirtschaftliche Stromspeicher ist da]]></title>
+            <description><![CDATA[<article><h1>MyReserve - der erste wirtschaftliche Stromspeicher ist da</h1><p>Wir verwenden Cookies auf dieser Website. Cookies sind kleine Textdateien, die auf Ihrem Computer gespeichert werden. Sie dienen dazu, unsere Seiten nutzerfreundlicher zu machen und diese optimiert darzustellen. Durch die Nutzung unserer Seiten erklären Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c0f89c37d3e9880c9302d54911fe80ba2e63f67.png"></article>]]></description>
+            <link>http://www.solarwatt.de/de/komponenten/stromspeicher/myreserve_500/</link>
+            <guid isPermaLink="false">94fc22fb-37a2-4b64-8728-9ea224ed7fa5</guid>
+            <pubDate>Fri, 08 Apr 2016 14:35:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vortex Crowdfunding Campaign on Indiegogo.]]></title>
+            <description><![CDATA[<article><h1>Vortex Crowdfunding Campaign on Indiegogo.</h1><p>Support us on Indiegogo and by sharing the campaign with your friends. http://igg.me/at/vortexbladeless</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4005a72897cb967aa7a1efd0434683ce7d1a0a9f.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=WqcNc9bKlNY&amp;feature=share</link>
+            <guid isPermaLink="false">5ef8c400-3b36-42f6-bd07-d22b42cc683b</guid>
+            <pubDate>Fri, 08 Apr 2016 14:35:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amp Hours vs Kilowatt Hours]]></title>
@@ -61,20 +75,6 @@
             <link>https://de.chargemap.com/</link>
             <guid isPermaLink="false">b7493755-66ee-4091-979f-767d3179886a</guid>
             <pubDate>Wed, 06 Apr 2016 21:13:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Game Change: Tesla And GM Announce Affordable, Long-Range Electric Cars]]></title>
-            <description><![CDATA[<article><h1>Game Change: Tesla And GM Announce Affordable, Long-Range Electric Cars</h1><p>Climate CREDIT: Carolyn Kaster, AP Two of the world's leading electric vehicle (EV) producers say that they will soon deliver 200+ mile range EVs at a game-changing price of $30,000 or less - including tax incentives. Until now, EVs have not been considered a mass-market consumer vehicle in the United States for two key reasons - high price and low range.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4003cd0c92f76e9a140a360e06c471ca5f14d5c.jpg"></article>]]></description>
-            <link>http://thinkprogress.org/climate/2016/02/11/3748451/tesla-gm-affordable-electric-cars/?xing_share=news</link>
-            <guid isPermaLink="false">196831d2-b6c3-4bc5-9f19-0f0ac83a9d23</guid>
-            <pubDate>Wed, 06 Apr 2016 21:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Battery technology charges ahead]]></title>
-            <description><![CDATA[<article><h1>Battery technology charges ahead</h1><p>New research suggests that the price of lithium-ion batteries could fall dramatically by 2020, creating conditions for the widespread adoption of electrified vehicles in some markets. Most experts agree that prices for energy storage will fall in coming years, but disagree over how far and how quickly.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/270b63f5b7d0db517712507b999c7385/croprotate.ashx?cropheight=843&cropwidth=1536&degrees=0&input=http%3A%2F%2Fwww.mckinsey.com%2F~%2Fmedia%2FMcKinsey%2FBusiness%2520Functions%2FSustainability%2520and%2520Resource%2520Productivity%2FOur%2520Insights%2FBattery%2520technology%2520charges%2520ahead%2Fbate12_frth.ashx&x=0&y=204"></article>]]></description>
-            <link>http://www.mckinsey.com/business-functions/sustainability-and-resource-productivity/our-insights/battery-technology-charges-ahead</link>
-            <guid isPermaLink="false">f4cc833f-833d-47f9-af3d-2402de8afe1d</guid>
-            <pubDate>Wed, 06 Apr 2016 21:05:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
