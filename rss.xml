@@ -4,7 +4,7 @@
         <description><![CDATA[News about changing from combustion to charging]]></description>
         <link>https://thegrid.ai/e-charge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 06:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 06:19:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/e-charge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[MORE POWER. MORE TORQUE.MAX ADVENTURE.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/e-charge/zero-dsr/index.html</link>
             <guid isPermaLink="false">9d9c5848-ae9a-4785-9c97-76f7086fda2b</guid>
             <pubDate>Thu, 07 Apr 2016 06:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Schiff Ahoi dank Azipod: Elektroantriebe für Ozeanriesen]]></title>
+            <description><![CDATA[<article><h1>Schiff Ahoi dank Azipod: Elektroantriebe für Ozeanriesen</h1><p>http:www.abb.de/karriere TecTV berichtet in der Aprilsendung aus Papenburg. In der Meyer Werft werden Ozeanriesen gebaut. Dabei spielen die Azipod-Antriebe von ABB eine wichtige Rolle. ABB-Mitarbeiter Thomas Völkel erklärt wie der Azipod funktioniert und welche Vorteile die Technik auch für Passagiere und Kapitäne hat.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcafb2deacf491fdc7d298705c63925caffbd259.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Vwx3mSLZoho</link>
+            <guid isPermaLink="false">7cc7c2ba-dadd-49ff-bc09-636549f1d28b</guid>
+            <pubDate>Wed, 15 Jun 2016 06:19:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The growing demand for lithium]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://cdn.zeromotorcycles.net/images/zero-ds/2016_zero-ds_product-page_dsr-order-image_16635.jpg">]]></description>
             <link>https://thegrid.ai/e-charge/e70ae334-3b62-4c52-9a22-658929d2f601/index.html</link>
             <guid isPermaLink="false">e70ae334-3b62-4c52-9a22-658929d2f601</guid>
-            <pubDate>Thu, 07 Apr 2016 14:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Geeking out on electric motorcycles - a trip to the Zero factory]]></title>
-            <description><![CDATA[<article><h1>Geeking out on electric motorcycles - a trip to the Zero factory</h1><p>Regular readers will know I'm a bit of a fan of Zero's electric motorcycles - as the market leader in performance electric two-wheelers, Zero offers a glimpse into a future where gasoline engines feel frankly archaic.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ebef9b95fd6939cb5bbc79bd6b6621b2941ad87.jpg"></article>]]></description>
-            <link>http://www.gizmag.com/zero-electric-motorcycles-factory-2015/35865/</link>
-            <guid isPermaLink="false">6c268dde-4fa4-478d-ac1b-9c29e5c1f4d5</guid>
             <pubDate>Thu, 07 Apr 2016 14:31:49 GMT</pubDate>
         </item>
     </channel>
