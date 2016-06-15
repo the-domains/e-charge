@@ -4,7 +4,7 @@
         <description><![CDATA[News about changing from combustion to charging]]></description>
         <link>https://thegrid.ai/e-charge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 06:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 07:07:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/e-charge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[MORE POWER. MORE TORQUE.MAX ADVENTURE.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/e-charge/zero-dsr/index.html</link>
             <guid isPermaLink="false">9d9c5848-ae9a-4785-9c97-76f7086fda2b</guid>
             <pubDate>Thu, 07 Apr 2016 06:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Phononic solid state heating and cooling revolution is almost here]]></title>
+            <description><![CDATA[<article><h1>The Phononic solid state heating and cooling revolution is almost here</h1><p>In 2014 TreeHugger covered Phononic and its solid state cooling devices, suggesting that we may be on the verge of a cooling revolution. These were devices that they believed could actually replace compressor technologies in our fridges and our air conditioners.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e46897454c70d5b9998917e64f37526e8934fe1.jpg"></article>]]></description>
+            <link>http://www.treehugger.com/green-architecture/year-could-see-real-revolution-they-way-we-do-heating-and-cooling.html</link>
+            <guid isPermaLink="false">fe8402d1-da57-4720-8f8e-4c1b614d6d72</guid>
+            <pubDate>Wed, 15 Jun 2016 07:07:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Schiff Ahoi dank Azipod: Elektroantriebe für Ozeanriesen]]></title>
@@ -68,13 +75,6 @@
             <link>http://all-about-lead-acid-batteries.capnfatz.com/all-about-lead-acid-batteries/lead-acid-battery-fundamentals/amp-hours-vs-kilowatt-hours/</link>
             <guid isPermaLink="false">3d5bff0a-514f-4f07-b217-f79bdf8855d2</guid>
             <pubDate>Fri, 08 Apr 2016 14:35:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://cdn.zeromotorcycles.net/images/zero-ds/2016_zero-ds_product-page_dsr-order-image_16635.jpg">]]></description>
-            <link>https://thegrid.ai/e-charge/e70ae334-3b62-4c52-9a22-658929d2f601/index.html</link>
-            <guid isPermaLink="false">e70ae334-3b62-4c52-9a22-658929d2f601</guid>
-            <pubDate>Thu, 07 Apr 2016 14:31:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
