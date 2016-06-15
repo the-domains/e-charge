@@ -4,7 +4,7 @@
         <description><![CDATA[News about changing from combustion to charging]]></description>
         <link>https://thegrid.ai/e-charge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 06:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 06:19:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/e-charge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[MORE POWER. MORE TORQUE.MAX ADVENTURE.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/e-charge/zero-dsr/index.html</link>
             <guid isPermaLink="false">9d9c5848-ae9a-4785-9c97-76f7086fda2b</guid>
             <pubDate>Thu, 07 Apr 2016 06:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The growing demand for lithium]]></title>
+            <description><![CDATA[<article><h1>The growing demand for lithium</h1><p>With the price of oil expected to climb, there's a growing demand for alternatively fueled vehicles. This has sparked a global interest in the natural resource lithium. It's a key ingredient in rechargeable batteries. An estimated 80 percent of the world's lithium is found in Chile, Argentina and Bolivia.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42b33f0a16b756f90e07967d30e827c12c21addf.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=B39hDHxwpxM</link>
+            <guid isPermaLink="false">856885fc-68d1-415d-a942-34f84680003c</guid>
+            <pubDate>Wed, 15 Jun 2016 06:19:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Lithium Battery Recycling Challenge]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.gizmag.com/zero-electric-motorcycles-factory-2015/35865/</link>
             <guid isPermaLink="false">6c268dde-4fa4-478d-ac1b-9c29e5c1f4d5</guid>
             <pubDate>Thu, 07 Apr 2016 14:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lithium Air: IBM's quest for the super-battery]]></title>
-            <description><![CDATA[<article><h1>Lithium Air: IBM's quest for the super-battery</h1><p>The days of $1.50 gasoline are long gone, and high costs coupled with environmental concerns have ignited a search for the battery that will power the cars of the future. IBM is at the forefront of this effort with its development of the lithium air super-battery.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c848c4b464b3733fb747dd8fbb009a23934d6983.jpg"></article>]]></description>
-            <link>https://youtube.com/watch?v=CQ6VdjosUrI</link>
-            <guid isPermaLink="false">2fff9439-f79e-4822-bb4e-a8346c75edb6</guid>
-            <pubDate>Thu, 07 Apr 2016 05:57:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
