@@ -4,7 +4,7 @@
         <description><![CDATA[News about changing from combustion to charging]]></description>
         <link>https://thegrid.ai/e-charge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 08:42:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 08:42:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/e-charge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[MORE POWER. MORE TORQUE.MAX ADVENTURE.]]></title>
@@ -18,6 +18,13 @@
             <description><![CDATA[<article><h1>Lithium Ion (Li-ion) Batteries used in Zero Motorcyles - all you need to know</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/437ef018ac3f78ebf842c5ce3a8c067b/noop.php?input=http%3A%2F%2Felectricmotorcycleforum.com%2Fboards%2Findex.php%3FPHPSESSID%3D3mueurj5o1h6ailc7u5ve9v3r5%26action%3Ddlattach%3Battach%3D467%3Btype%3Davatar"></article>]]></description>
             <link>http://electricmotorcycleforum.com/boards/index.php?topic=4280.0</link>
             <guid isPermaLink="false">ff83e54a-c8a8-413f-9132-7fc101f193cf</guid>
+            <pubDate>Tue, 28 Jun 2016 08:42:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About The Electric Chronicles]]></title>
+            <description><![CDATA[<article><h1>About The Electric Chronicles</h1><p>Thanks for stopping by... The Electric Chronicles started as a way for me to organize and find information on all manner of electric-powered two wheel transportation, and soon evolved into a chronicle of my build of the Honda VF500F motorcycle, Electric Vehicle stuff in general, as well as solar and wind power, and all manner...</p><img src="https://evmc2.files.wordpress.com/2010/06/rearisland.jpg?w=470"></article>]]></description>
+            <link>https://evmc2.wordpress.com/about/</link>
+            <guid isPermaLink="false">0b702273-f6b7-4a6d-bf41-e58464a3e310</guid>
             <pubDate>Tue, 28 Jun 2016 08:42:35 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>http://www.farasis.com/product.html</link>
             <guid isPermaLink="false">52074633-8d5c-4ef3-a54f-6e74ecb56e1e</guid>
             <pubDate>Fri, 29 Apr 2016 13:41:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vortex Crowdfunding Campaign on Indiegogo.]]></title>
-            <description><![CDATA[<article><h1>Vortex Crowdfunding Campaign on Indiegogo.</h1><p>Support us on Indiegogo and by sharing the campaign with your friends. http://igg.me/at/vortexbladeless</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4005a72897cb967aa7a1efd0434683ce7d1a0a9f.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=WqcNc9bKlNY&amp;feature=share</link>
-            <guid isPermaLink="false">5ef8c400-3b36-42f6-bd07-d22b42cc683b</guid>
-            <pubDate>Fri, 08 Apr 2016 14:35:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
