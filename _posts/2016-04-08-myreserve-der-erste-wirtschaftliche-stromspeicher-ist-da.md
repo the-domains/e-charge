@@ -10,8 +10,8 @@ description: >-
   nutzerfreundlicher zu machen und diese optimiert darzustellen. Durch die
   Nutzung unserer Seiten erklären Sie sich mit dem Einsatz von Cookies
   einverstanden. Weitere Informationen
-datePublished: '2016-06-28T08:45:16.350Z'
-dateModified: '2016-06-15T07:09:20.571Z'
+datePublished: '2016-06-28T08:45:57.528Z'
+dateModified: '2016-06-28T08:45:25.459Z'
 author: []
 related: []
 app_links: []
