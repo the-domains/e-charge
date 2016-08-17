@@ -4,7 +4,7 @@
         <description><![CDATA[News about changing from combustion to charging]]></description>
         <link>https://thegrid.ai/e-charge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 08:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 14:50:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/e-charge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[MORE POWER. MORE TORQUE.MAX ADVENTURE.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/e-charge/zero-dsr/index.html</link>
             <guid isPermaLink="false">9d9c5848-ae9a-4785-9c97-76f7086fda2b</guid>
             <pubDate>Thu, 07 Apr 2016 06:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 6 kWh electricity to refine gasoline would drive an electric car the same distance as a gasser?]]></title>
+            <description><![CDATA[<article><h1>The 6 kWh electricity to refine gasoline would drive an electric car the same distance as a gasser?</h1><p>According to a popular factoid, 6 kiloWatt-hours of electricity is used to refine a gallon of gasoline. Because EV's drive about as far on 6 kWh as gas cars drive on a gallon of gasoline, a big question pops into mind about the global allocation of resources. Electricity could be...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/af0f3fcd3d462b07d9bdcc43a4dcf2df/noop.png?input=http%3A%2F%2Flongtailpipe.com%2Fwp-content%2Fuploads%2F2015%2F07%2Fexxon-oil-refining.png"></article>]]></description>
+            <link>http://longtailpipe.com/ebooks/green-transportation-guide-buying-owning-charging-plug-in-vehicles-of-all-kinds/gasoline-electricity-and-the-energy-to-move-transportation-systems/the-6-kwh-electricity-to-refine-gasoline-would-drive-an-electric-car-the-same-distance-as-a-gasser/</link>
+            <guid isPermaLink="false">bff932f0-43a4-423c-b3e0-58dc694f36c5</guid>
+            <pubDate>Wed, 17 Aug 2016 14:50:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lithium Ion (Li-ion) Batteries used in Zero Motorcyles - all you need to know]]></title>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[About The Electric Chronicles]]></title>
-            <description><![CDATA[<article><h1>About The Electric Chronicles</h1><p>Thanks for stopping by... The Electric Chronicles started as a way for me to organize and find information on all manner of electric-powered two wheel transportation, and soon evolved into a chronicle of my build of the Honda VF500F motorcycle, Electric Vehicle stuff in general, as well as solar and wind power, and all manner...</p><img src="https://evmc2.files.wordpress.com/2010/06/rearisland.jpg?w=470"></article>]]></description>
+            <description><![CDATA[<article><h1>About The Electric Chronicles</h1><p>Thanks for stopping by... The Electric Chronicles started as a way for me to organize and find information on all manner of electric-powered two wheel transportation, and soon evolved into a chronicle of my build of the Honda VF500F motorcycle, Electric Vehicle stuff in general, as well as solar and wind power, and all manner...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/43f990641ad5c9890a42d48c5030a67b/noop.jpg?input=https%3A%2F%2Fevmc2.files.wordpress.com%2F2010%2F06%2Frearisland.jpg"></article>]]></description>
             <link>https://evmc2.wordpress.com/about/</link>
             <guid isPermaLink="false">0b702273-f6b7-4a6d-bf41-e58464a3e310</guid>
             <pubDate>Tue, 28 Jun 2016 08:42:35 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://livestream.com/accounts/14139273</link>
             <guid isPermaLink="false">3443e90c-ee33-47ac-af13-bb6e2b99355f</guid>
             <pubDate>Tue, 03 May 2016 20:20:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Farasis Energy, Inc. | Products]]></title>
-            <description><![CDATA[<article><h1>Farasis Energy, Inc. | Products</h1><p>Farasis has successfully commercialized its patent pending, stabilized, high performance MnR - cathode technology in a range of Li-ion cell products in both cylindrical and prismatic form factors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ba503396828cf99f03f8613204a75bd51eaf114.jpg"></article>]]></description>
-            <link>http://www.farasis.com/product.html</link>
-            <guid isPermaLink="false">52074633-8d5c-4ef3-a54f-6e74ecb56e1e</guid>
-            <pubDate>Fri, 29 Apr 2016 13:41:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
